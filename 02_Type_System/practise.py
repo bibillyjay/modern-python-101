@@ -2,8 +2,7 @@
 Louis wants to open a Pizza 🍕 Shop and needs to write
 a program for accepting orders.
 
-Tip -
------
+Tip ------
 Always Visualize First, Then Start Coding.
 """
 
